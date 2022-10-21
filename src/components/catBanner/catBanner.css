@@ -1,0 +1,29 @@
+.catBanner {
+    background-image: url("../../assets/bg-3_1512x.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.catBannerHeading {
+    font-weight: 700;
+}
+
+.catBannerBtn {
+    border-color: #fff;
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    padding: 11px 30px;
+    border-radius: 2rem;
+    font-weight: 700;
+}
+
+.catBannerImgCat {
+    width: 100% !important;
+    height: 100% !important;
+}

@@ -1,0 +1,70 @@
+.showOffCardOverText {
+    margin-top: 35px;
+    padding-left: 20px;
+}
+
+.showOffCardSubHeading {
+    font-size: 14px;
+    color: black;
+    font-weight: 700;
+}
+
+.showOffCardHeading {
+    font-size: 32px;
+    color: black;
+    font-weight: 700;
+}
+
+.showOffCardButton {
+    border: none;
+    background-color: #ED6436;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 11px 30px;
+    border-radius: 2rem;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+@media screen and (max-width: 369px) {
+    .showOffCardOverText {
+        margin-top: 0px;
+    }
+
+    .showOffCardSubHeading {
+        font-size: 12px;
+        color: black;
+        font-weight: 700;
+    }
+
+    .showOffCardHeading {
+        font-size: 23px;
+        color: black;
+        font-weight: 700;
+    }
+
+    .showOffCardButton {
+        border: none;
+        background-color: #ED6436;
+        color: #ffffff;
+        font-size: 14px;
+        padding: 3px 16px;
+        border-radius: 2rem;
+        margin-top: 20px;
+        font-weight: 700;
+    }
+
+}
+
+@media only screen and (max-width: 1100px) and (min-width: 990px) {
+    .showOffCardOverText {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 369px) {
+    .showOffCardOverText {
+        margin-top: 20px;
+    }
+
+}

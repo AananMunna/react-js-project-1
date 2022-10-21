@@ -1,0 +1,155 @@
+.firstSlide {
+    background-image: url('../../assets/slide12_1512x.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 710px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1px;
+
+}
+
+.secondSlide {
+    background-image: url('../../assets/slide11_1512x.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 710px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1px;
+}
+
+.lastSlide {
+    background-image: url('../../assets/slide13_1512x.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 710px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1px;
+}
+
+.home-line-height {
+    line-height: 1px;
+    margin-top: 80px;
+}
+
+.home-sub-heading {
+    font-size: 60px;
+    font-family: 'Bangers', cursive;
+    padding: 120px 0px 0px 0px;
+    margin: 0px;
+
+}
+
+.home-main-heading {
+    font-size: 150px;
+    font-family: 'Bangers', cursive;
+    padding: 0px;
+    margin: 0px;
+}
+
+.home-p {
+    font-size: 24px;
+}
+
+.home-page-btn {
+    border-color: #000000;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 18px 32px;
+    border-radius: 2rem;
+    margin-top: 20px;
+    font-weight: 700;
+    cursor: pointer !important;
+}
+
+
+.home-page-btn:hover {
+    border-color: #ED6436 !important;
+    background: #ED6436 !important;
+}
+
+.home-slider-next-icon {
+    padding: 5px 10px;
+    background: black;
+    color: white;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+}
+
+.home-slider-next-icon>span {
+    margin-top: 5px;
+}
+
+
+@media screen and (max-width: 483px) {
+    .home-sub-heading {
+        font-size: 45px;
+    }
+
+    .home-main-heading {
+        font-size: 100px;
+        margin-bottom: 14px;
+    }
+}
+
+
+@media screen and (max-width: 338px) {
+    .home-sub-heading {
+        font-size: 35px;
+    }
+
+    .home-main-heading {
+        font-size: 80px;
+        margin-bottom: 14px;
+    }
+
+    .home-p {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 280px) {
+    .home-sub-heading {
+        font-size: 30px;
+    }
+
+    .home-main-heading {
+        font-size: 70px;
+        margin-bottom: 14px;
+    }
+
+}
+
+@media screen and (max-width: 1199px) {
+    .home-sub-heading {
+        font-size: 50px;
+    }
+
+    .home-main-heading {
+        font-size: 130px;
+        margin-bottom: 14px;
+    }
+
+}
+
+@media screen and (max-width: 420px) {
+    .home-sub-heading {
+        font-size: 40px;
+    }
+
+    .home-main-heading {
+        font-size: 90px;
+        margin-bottom: 14px;
+    }
+
+}

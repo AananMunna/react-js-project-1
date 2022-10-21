@@ -1,0 +1,45 @@
+ .cardReviewIcon {
+     display: flex;
+     justify-content: center;
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+
+ .productCardHeading {
+     text-decoration: none;
+     color: black;
+     font-size: 18px;
+     font-weight: 800;
+ }
+
+ .productCardHeading:hover {
+     color: #ED6436;
+ }
+
+ .productCardPrice {
+     font-size: 20px;
+     font-weight: 700;
+     color: #ED6436;
+ }
+
+ .productCardSearchIcon {
+     display: none;
+     position: absolute;
+     top: 10px;
+     right: 10px;
+ }
+
+ .productCardIcon {
+     display: block;
+     font-size: 20px;
+     padding: 10px 15px;
+     border: 1px solid #ddd;
+     margin: 13px;
+     border-radius: 100%;
+     color: black;
+ }
+
+ .productCardIcon:hover {
+     background: #ED6436;
+     color: white;
+ }

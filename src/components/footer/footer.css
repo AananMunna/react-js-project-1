@@ -1,0 +1,110 @@
+.footer {
+    background-image: url("../../assets/bg-2_1512x.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footerFirstRow {
+    padding-top: 130px !important;
+}
+
+.footerHP {
+    border-right: 2px solid #ED6436;
+}
+
+.footerH {
+    color: #ED6436;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.footerInpDiv {
+    background: #4a4a4a;
+    padding: 8px 10px;
+    border-radius: 30px;
+    border: 1px solid #4a4a4a;
+}
+
+.footerInp {
+    background: #4a4a4a;
+    outline: none;
+    border: none;
+    text-indent: 15px;
+    padding: 0 10px;
+    color: white;
+    width: 100%;
+    font-size: 17px;
+}
+
+.footerInpIconDiv {
+    height: 35px;
+    padding: 0 30px;
+    background: #ED6436;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.footerInpIcon {
+    color: white;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.Color868686 {
+    color: #868686;
+}
+
+.colorED6436 {
+    color: #ED6436;
+}
+
+.bi-geo-alt {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.bi-telephone-inbound {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.footer-icon {
+    font-size: 25px;
+    padding: 5px 10px;
+    color: white;
+}
+
+.footer-icon:hover {
+    color: #ED6436;
+}
+
+.footerLinkHeader {
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 29px;
+}
+
+.footer-info {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.footerLink:hover {
+    color: #ED6436;
+}
+
+.paymentImg {
+    float: right;
+}

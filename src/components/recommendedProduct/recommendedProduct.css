@@ -1,0 +1,15 @@
+.recommended-page-btn {
+    border-color: #000000;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 7px 30px;
+    border-radius: 2rem;
+    font-weight: 700;
+}
+
+.recommended-page-btn:hover {
+    border-color: #ED6436;
+    background-color: #ED6436;
+    color: white;
+}

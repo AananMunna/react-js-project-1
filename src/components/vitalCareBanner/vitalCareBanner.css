@@ -1,0 +1,23 @@
+.vitalCareLeftSide {
+    background: #ED6436;
+}
+
+.vitalText {
+    font-weight: 700;
+}
+
+.vitalCardImg {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.vitalBtn {
+    border-color: #000000;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 10px 30px;
+    border-radius: 2rem;
+    margin-top: 20px;
+    font-weight: 700;
+}

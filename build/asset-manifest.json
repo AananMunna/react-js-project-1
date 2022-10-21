@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87d5cd3d.css",
+    "main.js": "/static/js/main.dd602dda.js",
+    "static/media/slide13_1512x.webp": "/static/media/slide13_1512x.5c579f88120be6fa9ce2.webp",
+    "static/media/slide11_1512x.webp": "/static/media/slide11_1512x.8470d6c4cfd33ec4705d.webp",
+    "static/media/slide12_1512x.webp": "/static/media/slide12_1512x.cae1209ea6e1c49aeff3.webp",
+    "static/media/cat-1_900x660.webp": "/static/media/cat-1_900x660.a5a490b34c6cd8a6538d.webp",
+    "static/media/bg-1_1512x.jpg": "/static/media/bg-1_1512x.14f1ef8599810c116df6.jpg",
+    "static/media/banner-4_720x.jpg": "/static/media/banner-4_720x.500e8a1749ae619ff594.jpg",
+    "static/media/product-26_360x360.jpg": "/static/media/product-26_360x360.0a3595168ffd03eeb4bc.jpg",
+    "static/media/product-14_360x360.jpg": "/static/media/product-14_360x360.143c03212e8e9ea1f80d.jpg",
+    "static/media/banner-1.jpg": "/static/media/banner-1.dc29284a64dae98f97f6.jpg",
+    "static/media/banner-2_540x (1).webp": "/static/media/banner-2_540x (1).e25d43038898b8c27d5b.webp",
+    "static/media/banner-slide1.jpg": "/static/media/banner-slide1.a923e175b973e2fb4c21.jpg",
+    "static/media/product-17_360x360.jpg": "/static/media/product-17_360x360.0da9ddd8f2e8042f423e.jpg",
+    "static/media/banner-3_559x387.webp": "/static/media/banner-3_559x387.ce161c5568074b690279.webp",
+    "static/media/product-16_360x360.jpg": "/static/media/product-16_360x360.ef832055059cbbba8687.jpg",
+    "static/media/product-11_360x360.webp": "/static/media/product-11_360x360.c0d569295db356d82bf7.webp",
+    "static/media/product-9_85b3789a-41cf-43b4-bca2-5b4dd73e5fb5_360x360.jpg": "/static/media/product-9_85b3789a-41cf-43b4-bca2-5b4dd73e5fb5_360x360.cac9ce35b872df023dc3.jpg",
+    "static/media/bg-2_1512x.jpg": "/static/media/bg-2_1512x.e8732390b382f3aedb2c.jpg",
+    "static/media/product-10_b98a5ca2-321c-412b-af32-a2a4c48679d3_360x360.webp": "/static/media/product-10_b98a5ca2-321c-412b-af32-a2a4c48679d3_360x360.f528973327410bb98c9f.webp",
+    "static/media/cate-5_330x303.avif": "/static/media/cate-5_330x303.058cf3bfe15a69528b69.avif",
+    "static/media/cate-7_330x303.avif": "/static/media/cate-7_330x303.2f44580945850e12e837.avif",
+    "static/media/cate-8_330x303.avif": "/static/media/cate-8_330x303.606359a754247e3ef569.avif",
+    "static/media/cate-6_330x303.avif": "/static/media/cate-6_330x303.a785b61d5ddf8303bb7b.avif",
+    "static/media/bg-3_1512x.webp": "/static/media/bg-3_1512x.af380ee3512b275e2ed5.webp",
+    "static/media/icon-1.avif": "/static/media/icon-1.6129a8ec3c1177789edb.avif",
+    "static/media/logo-white_170x.avif": "/static/media/logo-white_170x.8c2cf0121f7229d79e5e.avif",
+    "index.html": "/index.html",
+    "main.87d5cd3d.css.map": "/static/css/main.87d5cd3d.css.map",
+    "main.dd602dda.js.map": "/static/js/main.dd602dda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d5cd3d.css",
+    "static/js/main.dd602dda.js"
+  ]
+}
